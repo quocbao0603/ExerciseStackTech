@@ -1,4 +1,4 @@
-- Để dừng Nginx các bạn dùng lệnh: 
+- Để dừng Nginx dùng lệnh: 
 
 sudo systemctl stop nginx  
 
